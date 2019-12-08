@@ -1,4 +1,4 @@
-# Detecting-Lanes-In-Videogames-With-OpenCV
+# Lane-And-Object-Detecton-In-Videogames
 References : https://pythonprogramming.net/open-cv-basics-python-plays-gta-v/
 
 Using OpenCV To Detect Lanes In Videogames.
